@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align='center'>
   <a href='https://vk.com/lilrich163'>
-    <img src="https://static.tildacdn.com/tild6438-3764-4162-b234-613262393232/1.svg" alt="VK Badge" width=100/>
+    <img src="https://icon-library.com/images/social-09-512.png" alt="VK Badge" width=100/>
   </a>
   <a href='https://discordapp.com/users/657195144679915533/'>
     <img src="https://logos-world.net/wp-content/uploads/2021/05/Logo-Discord.png" alt="Discord Badge" width=120/>
@@ -19,3 +19,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 </div>
+<div align="center">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="600" height="300"/>
+</div>
+### :woman_technologist: About Me :
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
