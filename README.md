@@ -24,5 +24,5 @@
 
 ### :fire: My Stats :
   
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/lilrich163?theme=dark)
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/somepatt?theme=dark)
   
